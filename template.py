@@ -9,7 +9,6 @@ list_of_files=[
     f"{package_name}/__init__.py",
     f"{package_name}/logger.py",
     f"{package_name}/exception.py",
-    f"{package_name}/utils/__init__.py",
     "requirements.txt",
     ".env",
     "setup.py",

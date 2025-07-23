@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
 
     return requirements"""
 
-setup(
+setup (
     name='Nlysis chatbot agent',
     version='0.0.1',
     author='Nlysislab',
