@@ -7,6 +7,10 @@ package_name="agent"
 list_of_files=[
     "github/workflows/.gitkeep",
     f"{package_name}/__init__.py",
+    f"{package_name}/Data_loader.py",
+    f"{package_name}/Model_loader.py",
+    f"{package_name}/Flow_chain.py",
+    f"{package_name}/main.py",
     f"{package_name}/logger.py",
     f"{package_name}/exception.py",
     "requirements.txt",
